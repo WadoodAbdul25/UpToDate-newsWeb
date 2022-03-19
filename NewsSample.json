@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Valerie Hopkins, Marc Santora, Shashank Bengali, Yousur Al-Hlou",
+            "title": "Ukraine-Russia War News: Live Updates - The New York Times",
+            "description": "More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling.",
+            "url": "https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/13/world/13ukraine-blog-promo130pm/13ukraine-blog-promo130pm-facebookJumbo.jpg",
+            "publishedAt": "2022-03-13T20:24:53Z",
+            "content": "When Brent Renaud, an award-winning American filmmaker and journalist, was killed in Ukraine on Sunday, he was there to do what he had done throughout his career: bear witness to the worlds most dang… [+3397 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Arlette Saenz, CNN",
+            "title": "Former President Barack Obama tests positive for Covid-19 - CNN",
+            "description": "Former President Barack Obama announced Sunday that he has tested positive for Covid-19. \"I've had a scratchy throat for a couple days, but am feeling fine otherwise,\" he said on his official Twitter account. Obama also said that his wife, former first lady M…",
+            "url": "https://www.cnn.com/2022/03/13/politics/barack-obama-covid-positive/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220313144757-barack-obama-coronavirus-super-tease.jpg",
+            "publishedAt": "2022-03-13T20:11:32Z",
+            "content": "I just tested positive for COVID. I've had a scratchy throat for a couple days, but am feeling fine otherwise. Michelle and I are grateful to be vaccinated and boosted, and she has tested negative. \r… [+126 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a>, <a href=\"/profiles/steve-george\">Steve George</a>, Maureen Chowdhury and Mike Hayes, CNN",
+            "title": "Pope Francis pleads \"in the name of God\" to stop attacks on Ukraine - CNN",
+            "description": "Russian forces inch toward the Ukrainian capital, with intensified fighting to the northeast and east of the city. Follow here for live news updates.",
+            "url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-13-22/index.html",
+            "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/70d4d9a9-b142-4c9f-94a8-3f0ac4ee9c3e.jpg",
+            "publishedAt": "2022-03-13T20:02:13Z",
+            "content": "Further talks between Russia and Ukraine could take place next week, according to Mykhailo Podoliak, a senior adviser to Ukrainian President Volodymyr Zelensky.\r\n\"As soon as mutual counter legal form… [+945 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Claire Colbert, CNN",
+            "title": "Patrick Mahomes marries high school sweetheart Brittany Matthews - CNN",
+            "description": "Kansas City Chiefs quarterback Patrick Mahomes and his longtime girlfriend, Brittany Matthews, have tied the knot in Hawaii, according to posts on the couple's Instagram accounts.",
+            "url": "https://www.cnn.com/2022/03/13/sport/patrick-mahomes-brittany-matthews-married/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220313132600-patrick-mahomes-brittany-matthews-married-super-tease.jpg",
+            "publishedAt": "2022-03-13T19:55:19Z",
+            "content": "(CNN)Kansas City Chiefs quarterback Patrick Mahomes and his longtime girlfriend, Brittany Matthews, have tied the knot in Hawaii, according to posts on the couple's Instagram accounts.\r\nMahomes and M… [+889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ben Kesslen",
+            "title": "Zelensky presents medals to injured soldiers as Russian forces advance on Kyiv - New York Post ",
+            "description": "Ukraine President Vlodymyr Zelesnky visited injured soldiers in a Kyiv hospital Sunday, presenting medals to the wounded servicemen from their hospital beds.",
+            "url": "https://nypost.com/2022/03/13/zelensky-visits-injured-soldiers-in-kyiv-hospital/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/ukrain-zelensky-hospital-comp.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-13T19:21:00Z",
+            "content": "Ukraine President Volodymyr Zelesnky visited injured soldiers in a Kyiv hospital Sunday, presenting medals to the wounded servicemen in their beds.\r\nPhotos from the scene showed the president talking… [+2128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Tina Moore",
+            "title": "$10K reward for arrest of gunman who shot two homeless men, killing one - New York Post ",
+            "description": "NYPD announced a $10,000 reward Sunday for information leading to the arrest of the suspect who shot two homeless men — killing one of them — on the streets in Manhattan.",
+            "url": "https://nypost.com/2022/03/13/nypd-offers-10k-reward-for-arrest-of-gunman-who-shot-two-homeless-men/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/serial-killers-comp.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-13T18:52:00Z",
+            "content": "Police announced a $10,000 reward Sunday for information leading to the arrest of the creep who shot two homeless men killing one of them as they slept on the streets in Manhattan.\r\nThe sickening spr… [+2028 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "QASSIM ABDUL-ZAHRA Associated Press",
+            "title": "Iran claims missile barrage near US consulate in Iraq - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/International/wireStory/missiles-target-us-consulate-north-iraq-casualties-83412862",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_7f091be70b5c4d70b906dc5cd4920821_16x9_992.jpg",
+            "publishedAt": "2022-03-13T18:33:45Z",
+            "content": "BAGHDAD -- Iran claimed responsibility Sunday for a missile barrage that struck near a sprawling U.S. consulate complex in northern Iraq, saying it was retaliation for an Israeli strike in Syria that… [+6091 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Bradner, CNN",
+            "title": "'They got what they ordered, right?': Democrats search for a midterm message at party gatherings - CNN",
+            "description": "Recent party gatherings offered a window into why Democrats, who already face economic and historical headwinds heading into the 2022 midterms, have struggled to coalesce around a message to make their case to keep their narrow House and Senate majorities.",
+            "url": "https://www.cnn.com/2022/03/12/politics/democrats-midterms-message-2022-biden/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220312130111-democrats-midterms-message-2022-super-tease.jpg",
+            "publishedAt": "2022-03-13T18:30:54Z",
+            "content": "(CNN)At gatherings in Washington and Philadelphia this week, President Joe Biden sought to rally Democrats around a midterm message that the party has delivered on its domestic promises. What Democra… [+8365 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Isabelle Khurshudyan, Annabelle Timsit, Timothy Bella",
+            "title": "Ukraine accuses Russia of abducting another mayor in new phase of invasion - The Washington Post",
+            "description": "Ukrainian officials’ claims that Russian forces have abducted at least two mayors to install pro-Russian replacements marks a new phase in Moscow’s invasion, now in its third week.",
+            "url": "https://www.washingtonpost.com/world/2022/03/13/ukraine-mayor-abduction-kidnapping-dniprorudne-yevhen-matveev/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IYBG5HVCAYI6ZFBYEVLQTNWN3Q.jpg&w=1440",
+            "publishedAt": "2022-03-13T17:26:15Z",
+            "content": "Russias advance through some parts of Ukraine may have stalled. But in the cities already captured, there has been popular pushback against what appear to be attempts at installing friendly lawmakers… [+5101 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Panthers, Saints have offered deals for Deshaun Watson, likely to meet with QB soon - NFL.com",
+            "description": "NFL Network's Ian Rapoport and Tom Pelissero reported Sunday that the Carolina Panthers and New Orleans Saints have made trade offers for Deshaun Watson and are likely to meet with the Texans QB soon.",
+            "url": "https://www.nfl.com/news/panthers-saints-have-offered-deals-for-deshaun-watson-likely-to-meet-with-qb-soo",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/jsi5si3rnsgff15zrkqw",
+            "publishedAt": "2022-03-13T17:20:00Z",
+            "content": "The Carolina Panthers and New Orleans Saints have made trade offers for Houston Texans quarterback Deshaun Watson and are likely to meet with him soon, NFL Network's Ian Rapoport and Tom Pelissero re… [+1287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Daily News"
+            },
+            "author": "Nicholas Williams, JOHN ANNESE",
+            "title": "NYPD releases shocking video of MOMA stabbing, names suspect - New York Daily News",
+            "description": "Gary Cabana, 60, was enraged that his membership to the iconic Midtown museum had been canceled when he rushed through the W. 53rd St. movie theater entrance and jumped over the counter, police said.",
+            "url": "https://www.nydailynews.com/new-york/nyc-crime/ny-moma-museum-of-modern-art-stabbing-suspect-video-20220313-sw3ehlilprcfbc5xjrlao5cx4e-story.html",
+            "urlToImage": "https://www.nydailynews.com/resizer/lorS4j8nb72WabUic8_QAdUMEcg=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BHBWSN7WF5EAHBWNUHSOBSTRU4.jpg",
+            "publishedAt": "2022-03-13T17:09:00Z",
+            "content": "The NYPD on Sunday identified the crazed suspect still on the loose after stabbing two workers at the Museum of Modern Art Saturday and released shocking video of the bloodshed.\r\nGary Cabana, 60, was… [+2289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Alex Ritman",
+            "title": "BAFTA Awards: Winners List (Updating Live) - Hollywood Reporter",
+            "description": "The 2022 BAFTA film awards ceremony has begun. The British Academy has cranked the glitz and glamour at London’s Royal Albert Hall up several notches as it welcomes the return to an in-person event having gone virtual in 2021 due to the coronavirus pandemic. …",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/bafta-awards-2022-winners-list-1235109906/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/F2008MASK_MH003.jpg?w=1024",
+            "publishedAt": "2022-03-13T16:55:29Z",
+            "content": "The 2022 BAFTA film awards ceremony has begun.\r\nThe British Academy has cranked the glitz and glamour at London’s Royal Albert Hall up several notches as it welcomes the return to an in-person event … [+6154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Hall"
+            },
+            "author": "Andy Bottoms",
+            "title": "Bracketology: NCAA tournament projection as of March 13, 2022 - Inside the Hall",
+            "description": "There are just five automatic bids left to be handed out on Sunday, but you can be sure that every bubble team will be rooting on Davidson to take down Richmond in the A-10 since the Spiders are the lone bid thief remaining at this point.",
+            "url": "https://www.insidethehall.com/2022/03/13/bracketology-ncaa-tournament-projection-as-of-march-13-2022/",
+            "urlToImage": "https://www.insidethehall.com/wp-content/uploads/2017/09/092717ncaa.jpg",
+            "publishedAt": "2022-03-13T16:48:41Z",
+            "content": "There are just five automatic bids left to be handed out on Sunday, but you can be sure that every bubble team will be rooting on Davidson to take down Richmond in the A-10 since the Spiders are the … [+11786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Associated, Christina Coulter",
+            "title": "Uber charging customers new fuel fee for rides, delivery - Daily Mail",
+            "description": "Citing record-high prices for gasoline, which are ramping for the 13th consecutive day since Russia began its war on Ukraine, Uber is charging customers a new fuel fee for drivers.",
+            "url": "https://www.dailymail.co.uk/news/article-10606675/Uber-charging-customers-new-fuel-fee-rides-delivery.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/13/04/55285541-0-image-a-10_1647146308945.jpg",
+            "publishedAt": "2022-03-13T16:42:58Z",
+            "content": "Citing record-high prices for gasoline, which are ramping for the 13th consecutive day since Russia began its war on Ukraine, Uber is charging customers a new fuel fee to help offset costs for ride-h… [+4317 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkey, Greece agree to improve ties amid Ukraine conflict - Reuters.com",
+            "description": "Turkish President Tayyip Erdogan and Greek Prime Minister Kyriakos Mitsotakis agreed in talks on Sunday to improve ties, despite the long-running disagreements between the two NATO members, Ankara said.",
+            "url": "https://www.reuters.com/world/europe/turkey-greece-agree-improve-ties-amid-ukraine-conflict-2022-03-13/",
+            "urlToImage": "https://www.reuters.com/resizer/fkmQV_RZjcOFk_qtF07Ofqo24cM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5GYR6XR4WZJNZC2Q5VI44JIZI4.jpg",
+            "publishedAt": "2022-03-13T16:24:00Z",
+            "content": "ISTANBUL, March 13 (Reuters) - Turkish President Tayyip Erdogan and Greek Prime Minister Kyriakos Mitsotakis agreed in talks on Sunday to improve ties, despite the long-running disagreements between … [+2393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Sullivan: China will face consequences if it helps Russia evade sanctions - The Guardian",
+            "description": "Biden’s national security adviser, who is due to meet China’s top diplomat in Rome, says Washington is watching Beijing closely",
+            "url": "https://amp.theguardian.com/us-news/2022/mar/13/jake-sullivan-biden-national-security-adviser-china-russia",
+            "urlToImage": "https://i.guim.co.uk/img/media/f83d3ba5c560c8fb0cdd8b8b3056dd1e82460201/0_117_4876_2926/master/4876.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99ef2e032b1cf44622feec7a8cd42561",
+            "publishedAt": "2022-03-13T15:57:00Z",
+            "content": "Joe Bidens national security adviser Jake Sullivan, who is due to meet Chinas top diplomat, Yang Jiechi, in Rome on Monday, has warned Beijing that it would absolutely face consequences if it helped … [+3717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Kuo: Only iPhone 14 Pro Models to Get 'A16' Chip, Standard Models to Retain A15 - MacRumors",
+            "description": "Only the iPhone 14 Pro models will have the \"A16\" chip, while the standard iPhone 14 models will retain the A15 Bionic chip from the iPhone...",
+            "url": "https://www.macrumors.com/2022/03/13/kuo-only-iphone-14-pro-models-to-get-a16-chip/",
+            "urlToImage": "https://images.macrumors.com/t/TehGUgb3ooNNWMuugkMe_SflPNM=/1600x/article-new/2022/01/iPhone-14-Mock-pill-and-hole-thumb.jpg",
+            "publishedAt": "2022-03-13T15:49:53Z",
+            "content": "Only the iPhone 14 Pro models will have the \"A16\" chip, while the standard iPhone 14 models will retain the A15 Bionic chip from the iPhone 13, according to insightful Apple analyst Ming-Chi Kuo.\r\nIn… [+2205 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, USA TODAY",
+            "title": "Seize the day: Russian yachts find no safe ports in sanctions storm - USA TODAY",
+            "description": "Russian yacht owners are encountering rough seas around the world as nations sympathetic to Ukraine's plight press sanctions and seize vessels.",
+            "url": "https://www.usatoday.com/story/news/world/2022/03/13/russian-yachts-seized/7025554001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/04/USAT/438caa46-1304-472f-904a-a7092c00a5e0-GettyImages-1374612708.jpg?auto=webp&crop=4499,2531,x0,y299&format=pjpg&width=1200",
+            "publishedAt": "2022-03-13T15:19:24Z",
+            "content": "Russian yacht owners are encountering rough seas around the world as nations sympathetic to Ukraine's plight press sanctions that include impounding assets of Russia's wealthy class.\r\nWorld leaders h… [+2690 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Apple (AAPL) M2 Pro, Max, Ultra Chip Plans; iMac, Mac Pro, MacBook Air Details - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e9164a07-a2dc-11ec-a6d8-586e55516254&url=L25ld3MvbmV3c2xldHRlcnMvMjAyMi0wMy0xMy9hcHBsZS1hYXBsLW0yLXByby1tYXgtdWx0cmEtY2hpcC1wbGFucy1pbWFjLW1hYy1wcm8tbWFjYm9vay1haXItZGV0YWlscy1sMHBieDUzeg==",
+            "urlToImage": null,
+            "publishedAt": "2022-03-13T13:45:20Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Stefan Stefan",
+            "title": "American journalist Brent Renaud shot and killed by Russian forces in Ukraine, police say - CBS News",
+            "description": "Brent Renaud, a 50-year-old filmmaker, was killed when Russian troops opened fire, according to the head of Kyiv's regional police force.",
+            "url": "https://www.cbsnews.com/news/brent-renaud-ukraine-russia-american-journalist-killed/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/03/13/800e8f54-f88d-4057-8660-43caa26306c1/thumbnail/1200x630/52c333e71525988e3031b3eb9a3ed6da/1l8a3498.jpg",
+            "publishedAt": "2022-03-13T13:45:00Z",
+            "content": "Washington — An American journalist was killed and another journalist was wounded by Russian forces in the town of Irpin outside the capital of Kyiv on Sunday, Ukrainian police said. \r\nBrent Renaud, … [+1640 chars]"
+        }
+    ]
+}

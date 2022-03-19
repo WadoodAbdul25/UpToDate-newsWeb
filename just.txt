@@ -1,0 +1,22 @@
+News_API key: be34fb63cde94cd6a1be08b6c33faf0a
+
+News_categories: 
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+
+CSS for Setting Background image in React
+      <div
+        class="bg_image"
+        style={{
+          backgroundImage: 'url(' + backGround + ')',
+          backgroundSize: "cover",
+          color: "#f5f5f5",
+          marginBottom:'-50px'
+        }}
+      >
