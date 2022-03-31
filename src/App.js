@@ -3,13 +3,13 @@ import backGround from './bg.jpg'
 import React, { Component } from 'react'
 import Nav1 from './components/Nav1';
 import News from './components/News';
-import { render } from "react-dom";
 import {
   BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
 export default class App extends Component {
+  pageSize = 5;
   render() {
     return (
       <div
@@ -24,16 +24,16 @@ export default class App extends Component {
         <Router>
           <Nav1 />
           <Routes>
-            <Route path='/' element={<News pageSize={5} country='us' category='general'/>} />    
-            <Route path='/business' element={<News pageSize={5} country='us' category='business'/>} />
+            <Route path='/' element={<News key="general" pageSize={this.pageSize} country='us' category='general'/>} />    
+            <Route path='/business' element={<News key="business" pageSize={this.pageSize} country='us' category='business'/>} />
 
-            <Route path='/entertainment' element={<News pageSize={5} country='us' category='entertainment'/>} />
-            <Route path='/health' element={<News pageSize={5} country='us' category='health'/>} />
+            <Route path='/entertainment' element={<News key="entertainment" pageSize={this.pageSize} country='us' category='entertainment'/>} />
+            <Route path='/health' element={<News key="health" pageSize={this.pageSize} country='us' category='health'/>} />
 
-            <Route path='/science' element={<News pageSize={5} country='us' category='science'/>} />
-            <Route path='/sports' element={<News pageSize={5} country='us' category='sports'/>} />
+            <Route path='/science' element={<News key="science" pageSize={this.pageSize} country='us' category='science'/>} />
+            <Route path='/sports' element={<News key="sports" pageSize={this.pageSize} country='us' category='sports'/>} />
 
-            <Route path='/technology' element={<News pageSize={5} country='us' category='technology'/>} />
+            <Route path='/technology' element={<News key="technology" pageSize={this.pageSize} country='us' category='technology'/>} />
           </Routes>
           <div className="container-fluid bg-dark text-light d-flex" style={{ height: '8vh', justifyContent: 'center', paddingTop: '20px' }}>
             Copyright © 2022 <strong>UpToDate</strong> Inc. All rights reserved.
