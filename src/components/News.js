@@ -14,10 +14,6 @@ export class News extends Component {
         pageSize: 8,
         category: 'general',
       }
-      capitalizeFirstLetter = (string) =>{
-           let arr=string[0].toUpperCase;
-           string.replace(string[0],arr)
-      }
     constructor(props) {
         super(props);
         // console.log('Hello world')
@@ -41,12 +37,7 @@ export class News extends Component {
         })
     }
     async componentDidMount() {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=be34fb63cde94cd6a1be08b6c33faf0a&pageSize=${this.props.pageSize}`;
-        this.setState({loading:true})
-        let data = await fetch(url);
-        let parsedData = await data.json();
-        console.log(parsedData);
-        this.setState({ articles: parsedData.articles, totalResults: parsedData.totalResults,loading:false })
+       this.updateNews();
     }
     
     

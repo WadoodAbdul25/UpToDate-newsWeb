@@ -9,7 +9,7 @@ import {
   Route,
 } from "react-router-dom";
 export default class App extends Component {
-  pageSize = 5;
+  pageSize = 10;
   render() {
     return (
       <div
@@ -35,7 +35,7 @@ export default class App extends Component {
 
             <Route path='/technology' element={<News key="technology" pageSize={this.pageSize} country='us' category='technology'/>} />
           </Routes>
-          <div className="container-fluid bg-dark text-light d-flex" style={{ height: '8vh', justifyContent: 'center', paddingTop: '20px' }}>
+          <div className="container-fluid bg-primary text-light d-flex" style={{ height: '8vh', justifyContent: 'center', paddingTop: '20px' }}>
             Copyright © 2022 <strong>UpToDate</strong> Inc. All rights reserved.
           </div>
         </Router>
