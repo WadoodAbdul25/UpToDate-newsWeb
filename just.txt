@@ -1,0 +1,22 @@
+
+
+News_categories: 
+business
+entertainment
+general
+health
+science
+sports
+technology
+
+
+CSS for Setting Background image in React
+      <div
+        class="bg_image"
+        style={{
+          backgroundImage: 'url(' + backGround + ')',
+          backgroundSize: "cover",
+          color: "#f5f5f5",
+          marginBottom:'-50px'
+        }}
+      >
